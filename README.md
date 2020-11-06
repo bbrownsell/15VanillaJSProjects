@@ -1,2 +1,2 @@
 # 15VanillaJSProjects
-From the coding addict
+From coding addict
