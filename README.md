@@ -1,2 +1,3 @@
 # 15VanillaJSProjects
-From coding addict
+15 Mini Projects that were created following along with coding addict. 
+
